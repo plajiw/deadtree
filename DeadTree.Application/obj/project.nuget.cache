@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e1Lz/1NhZUo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\plajiw\\Projetos\\deadtree\\DeadTree.Application\\DeadTree.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\plajiw\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
